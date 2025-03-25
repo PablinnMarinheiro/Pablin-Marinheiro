@@ -1,6 +1,8 @@
 ### Bem-vindo ao meu repositório 😉
 
-- Sou aluno da Escola Izabel de Almeida Marin, atuando no Ensino Médio no ensino de Tecnologia e Robótica.
+- Sou ex-aluno da Escola Izabel de Almeida Marin, que exercia o Ensino Médio na área de Tecnologia e Robótica.
+- Hoje faço o curso de Engenharia de Software
+- Estou fazendo estágio na parte de TI
 - Atualmente trabalhamos com **JavaScript** na plataforma P5JS 🃏;
-- Para contato email: _00001088360610sp@al.educacao.sp.gov.br_📩;
-  ![](https://media1.tenor.com/m/gkD39whDQP0AAAAd/xandao.gif)
+- Para contato email: pabloeduraimundo@gmail.com_📩;
+
